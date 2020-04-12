@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Jihye Leee"
-subtitle: "이지혜"
+title: "HEEJIN JEON"
+subtitle: "전희진"
 type: "About"
-author: "Jihye Lee"
+author: "Heejin Jeon"
 permalink: /about/
 post-header: true
 header-img: img/about.jpg
 ---
 
-UX 에이전시 GUI 디자이너를 거쳐 현재는 RIDI에서 프로덕트 디자이너로 5년째 근무 중이다. 디자이너에게 코딩을 알려주는 코딩하는 디자이너라는 프로그램을 운영하고 브랜딩하기도 했다. 더 좋은 디자인 팀 만들기와 디자이너의 글쓰기에 관심이 많다.
+주로 Spring과 Springboot으로 개발을 하고 Node.js에도 관심이 많은 백엔드 개발자입니다. 비동기 처리로 작업하는 것을 좋아하여 프로젝트에서 주로 Ajax를 사용하였습니다. Docker, Jenkins, DevOps에 대한 지식을 갖고 있으며, TDD로 개발하는 것을 좋아합니다. 
 
 # Media
 ### Design Spectrum의 팟캐스트 Design Table
