@@ -61,3 +61,12 @@ _원문 아티클의 일부를 요약, 번역한 글로 [Design Systems](http://
 RIDI에서 함께 할 디지털 프로덕트 디자이너를 뽑고 있습니다! 자세한 채용 공고가 궁금하시다면 아래 이미지를 클릭해 주세요! 👇
 
 <a href="http://bit.ly/2qoo3wp">![RIDI 디지털 프로덕트 디자이너 채용](https://cdn.dribbble.com/users/291872/screenshots/5483004/ridi-digital-product-designer.jpg)
+  
+<script src="https://utteranc.es/client.js"
+        repo="h2jinee / blog-comments"
+        issue-term="title"
+        label="https://h2jinee.github.io/"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
