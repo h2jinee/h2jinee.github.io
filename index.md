@@ -14,11 +14,3 @@ description: HEEJIN JEON, who is a Back-end Developer based in Seoul, South Kore
 </section>
 </div>
 {% include resume.html %}
-<script src="https://utteranc.es/client.js"
-        repo="h2jinee / blog-comments"
-        issue-term="title"
-        label="https://h2jinee.github.io/"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
