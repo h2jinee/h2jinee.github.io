@@ -9,7 +9,7 @@ post-header: true
 header-img: img/about.jpg
 ---
 
-주로 Spring과 Springboot으로 개발을 하고 Node.js에도 관심이 많은 백엔드 개발자입니다. 비동기 처리로 작업하는 것을 좋아하여 프로젝트에서 주로 Ajax를 사용하였습니다. Docker, Jenkins, DevOps에 대한 지식을 갖고 있으며, TDD로 개발하는 것을 좋아합니다. 
+주로 Spring과 Springboot으로 개발을 하고 Node.js에도 관심이 많은 백엔드 개발자입니다. 비동기식 처리를 좋아하여 다양한 프로젝트에서 Ajax를 사용하였습니다. Docker, Jenkins, DevOps에 대한 지식을 갖고 있으며, TDD로 개발하는 것을 좋아합니다. 
 
 # Media
 ### Design Spectrum의 팟캐스트 Design Table
