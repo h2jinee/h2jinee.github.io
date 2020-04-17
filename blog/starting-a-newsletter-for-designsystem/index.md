@@ -9,6 +9,8 @@ author: "Jihye Leee"
 post-header: true
 header-img: "img/header.jpg"
 order: 10
+toc: true
+toc_sticky: true
 ---
 
 _원문 아티클의 일부를 요약, 번역한 글로 [Design Systems](http://designsystems.com/) 사이트를 운영하는 [Figma](https://www.figma.com/)의 허락을 받고 게재하였다. 번역이 엉성할 수 있기에 원문도 꼭 읽어보기를 추천한다._
