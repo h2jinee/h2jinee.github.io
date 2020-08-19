@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "신입 백엔드 개발자 기술면접 예상 질문"
-subtitle: "기본적인 JAVA, DATABASE 그 외 인성질문들"
+subtitle: "JAVA, DATABASE 그 외 인성질문들"
 type: "Development"
 blog: true
 text: true
